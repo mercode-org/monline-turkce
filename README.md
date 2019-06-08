@@ -1,2 +1,2 @@
-# mbnetwork-turkce
-MBNetwork Türkçe Dil Paketi
+# Merkür Online Türkçe Dil Paketi
+online.merkur.xyz 'de kullanılan Türkçe dil paketi. 
