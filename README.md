@@ -1,2 +1,2 @@
-# Merkür Online Türkçe Dil Paketi
-online.merkur.xyz 'de kullanılan Türkçe dil paketi. 
+# hub.mercode türkçe dil paketi
+hub.mercode.org 'da kullanılan Türkçe dil paketi. 
