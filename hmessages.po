@@ -13721,19 +13721,19 @@ msgstr[1] "%dyıl"
 
 #: ../../include/js_strings.php:50
 msgid "timeago.prefixAgo"
-msgstr "zamanönce.prefixÖnce"
+msgstr "-"
 
 #: ../../include/js_strings.php:51
 msgid "timeago.prefixFromNow"
-msgstr "zamanönce.prefixŞuandanBeri"
+msgstr "-"
 
 #: ../../include/js_strings.php:52
 msgid "timeago.suffixAgo"
-msgstr "zamanönce.suffixÖnce"
+msgstr "-"
 
 #: ../../include/js_strings.php:53
 msgid "timeago.suffixFromNow"
-msgstr "zamanönce.suffixŞuandanBeri"
+msgstr "-"
 
 #: ../../include/js_strings.php:56
 msgid "less than a minute"
@@ -13765,7 +13765,7 @@ msgstr " "
 
 #: ../../include/js_strings.php:68
 msgid "timeago.numbers"
-msgstr "zamanönce.sayılar"
+msgstr "kadar önce"
 
 #: ../../include/js_strings.php:74
 msgctxt "long"
