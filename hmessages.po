@@ -893,7 +893,7 @@ msgstr "Varsayılan Adres Kitabı"
 
 #: ../../Zotlabs/Module/Regdir.php:49 ../../Zotlabs/Module/Dirsearch.php:25
 msgid "This site is not a directory server"
-msgstr "MBNetwork bir dizin sunucusu değil."
+msgstr "MerHub bir dizin sunucusu değil."
 
 #: ../../Zotlabs/Module/Permcats.php:28
 msgid "Permission category name is required."
@@ -1059,7 +1059,7 @@ msgstr ""
 
 #: ../../Zotlabs/Module/Hq.php:140
 msgid "Welcome to Hubzilla!"
-msgstr "Maker Birliği Network'e Hoş Geldiniz!"
+msgstr "hub.mercode'a Hoş Geldiniz!"
 
 #: ../../Zotlabs/Module/Hq.php:140
 msgid "You have got no unseen posts..."
@@ -2922,7 +2922,7 @@ msgstr "Yüklenen resimlerin maksimum bitsel boyutları. Varsayılan 0 yani limi
 
 #: ../../Zotlabs/Module/Admin/Site.php:308
 msgid "Does this site allow new member registration?"
-msgstr "MBNetwork yeni kullanıcı kayıtlarına izin veriyor mu?"
+msgstr "MerHub yeni kullanıcı kayıtlarına izin veriyor mu?"
 
 #: ../../Zotlabs/Module/Admin/Site.php:309
 msgid "Invitation only"
@@ -3455,7 +3455,7 @@ msgstr "https://youtube.com/<br />https://www.youtube.com/<br />https://youtu.be
 msgid ""
 "All other embedded content will be filtered, <strong>unless</strong> "
 "embedded content from that site is explicitly blocked."
-msgstr "Bütün diğer gömülü içerik filtrelenecek, <strong>yalnızca</strong>MBNetworkden gömülen içerik engellenecek."
+msgstr "Bütün diğer gömülü içerik filtrelenecek, <strong>yalnızca</strong>MerHubden gömülen içerik engellenecek."
 
 #: ../../Zotlabs/Module/Admin/Security.php:93
 #: ../../Zotlabs/Widget/Admin.php:25
@@ -3470,7 +3470,7 @@ msgstr "Halka açık engelleme"
 msgid ""
 "Check to block public access to all otherwise public personal pages on this "
 "site unless you are currently authenticated."
-msgstr "Kimliği doğrulanmadıkça, MBNetworkdeki herkese açık kişisel sayfaların tümüne erişimi engelleyin."
+msgstr "Kimliği doğrulanmadıkça, MerHubdeki herkese açık kişisel sayfaların tümüne erişimi engelleyin."
 
 #: ../../Zotlabs/Module/Admin/Security.php:96
 msgid "Provide a cloud root directory"
@@ -4491,7 +4491,7 @@ msgid ""
 "Leave blank to keep your existing channel nickname. You will be randomly "
 "assigned a similar nickname if either name is already allocated on this "
 "site."
-msgstr "Mevcut kanal kullanıcı adınızı kullanmak için boş bırakın. Eğer MBNetworkde mevcut adınız zaten bulunuyorsa, size rastgele benzer bir ad yazılacak."
+msgstr "Mevcut kanal kullanıcı adınızı kullanmak için boş bırakın. Eğer MerHubde mevcut adınız zaten bulunuyorsa, size rastgele benzer bir ad yazılacak."
 
 #: ../../Zotlabs/Module/Import.php:562
 msgid ""
@@ -6779,7 +6779,7 @@ msgstr "Dizin sunucusu giriş tokeni gerektirir"
 
 #: ../../Zotlabs/Module/Siteinfo.php:21
 msgid "About this site"
-msgstr "MBNetwork hakkında"
+msgstr "MerHub hakkında"
 
 #: ../../Zotlabs/Module/Siteinfo.php:22
 msgid "Site Name"
@@ -6799,7 +6799,7 @@ msgstr ""
 
 #: ../../Zotlabs/Module/Siteinfo.php:30
 msgid "This site is powered by $Projectname"
-msgstr "Maker Birliği ve MBNetwork, $Projectname tarafından desteklenmektedir"
+msgstr "Maker Birliği ve MerHub, $Projectname tarafından desteklenmektedir"
 
 #: ../../Zotlabs/Module/Siteinfo.php:31
 msgid ""
@@ -7212,7 +7212,7 @@ msgstr "Durum:"
 
 #: ../../Zotlabs/Module/Directory.php:274
 msgid "Homepage: "
-msgstr "MBNetwork Anasayfası:"
+msgstr "MerHub Anasayfası:"
 
 #: ../../Zotlabs/Module/Directory.php:323 ../../include/channel.php:1571
 msgid "Age:"
@@ -7381,7 +7381,7 @@ msgstr ""
 
 #: ../../Zotlabs/Module/Mail.php:270
 msgid "Requested channel is not in this network"
-msgstr "İstenen kanal MBNetwork'de yok"
+msgstr "İstenen kanal MerHub'de yok"
 
 #: ../../Zotlabs/Module/Mail.php:278
 msgid "Send Private Message"
@@ -7593,7 +7593,7 @@ msgstr ""
 msgid ""
 "This site has exceeded the number of allowed daily account registrations. "
 "Please try again tomorrow."
-msgstr "MBNetwork günlük izin verilen kayıt olma limitini açtı. Lütfen yarın yeniden deneyin."
+msgstr "MerHub günlük izin verilen kayıt olma limitini açtı. Lütfen yarın yeniden deneyin."
 
 #: ../../Zotlabs/Module/Register.php:242
 #, php-format
@@ -7603,7 +7603,7 @@ msgstr ""
 #: ../../Zotlabs/Module/Register.php:249
 #, php-format
 msgid "I am over %s years of age and accept the %s for this website"
-msgstr "Ben %syaşından büyüğüm ve MBNetwork için %s'i kabul ediyorum."
+msgstr "Ben %syaşından büyüğüm ve MerHub için %s'i kabul ediyorum."
 
 #: ../../Zotlabs/Module/Register.php:254
 msgid "Your email address"
@@ -7781,7 +7781,7 @@ msgstr "$Projectname"
 #: ../../Zotlabs/Module/Home.php:90
 #, php-format
 msgid "Welcome to %s"
-msgstr "%s'e hoş geldiniz!"
+msgstr "%s'a hoş geldiniz!"
 
 #: ../../Zotlabs/Module/Filestorage.php:79
 msgid "Permission Denied."
@@ -13541,7 +13541,7 @@ msgstr "%1$s, %2$s%3$s'i yazdı"
 
 #: ../../include/follow.php:37
 msgid "Channel is blocked on this site."
-msgstr "Bu kanal, MBNetworkden engellendi."
+msgstr "Bu kanal, MerHubden engellendi."
 
 #: ../../include/follow.php:42
 msgid "Channel location missing."
@@ -14345,7 +14345,7 @@ msgstr "%1$selemanını indir %2$s"
 msgid ""
 "This post contains an installable %s element, however you lack permissions "
 "to install it on this site."
-msgstr "Bu gönderi yüklenebilir bir %selemanı içeriyor, ama MBNetworkde bunu indirmeye yetkiniz yok."
+msgstr "Bu gönderi yüklenebilir bir %selemanı içeriyor, ama MerHubde bunu indirmeye yetkiniz yok."
 
 #: ../../include/bbcode.php:350
 msgid "card"
@@ -14725,7 +14725,7 @@ msgstr ""
 
 #: ../../include/account.php:44
 msgid "Your email address is already registered at this site."
-msgstr "E-posta adresiniz zaten MBNetworkde kayıtlı."
+msgstr "E-posta adresiniz zaten MerHubde kayıtlı."
 
 #: ../../include/account.php:76
 msgid "An invitation is required."
